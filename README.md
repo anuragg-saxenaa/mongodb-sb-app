@@ -1,4 +1,4 @@
-# mongodb-sb-app
+# mongodb-springboot-app
 mongodb spingboot app
 
-Siring boot app conncts to MongoDB database using Spring Data MongoDB.
+Siring boot app connects to MongoDB database using Spring Data MongoDB.
